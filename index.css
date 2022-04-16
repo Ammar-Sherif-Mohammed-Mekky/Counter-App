@@ -7,18 +7,24 @@
 }
 
 body{
-    background: linear-gradient(to right,#3e8457, #6bb2ff);
+    /* background: linear-gradient(to right,#3e8457, #6bb2ff);
+     */
+     background: #e0e0e0;
 }
 
 .all{
     height: 400px;
     width: 300px;
-    border: 50px solid rgba(51, 87, 79, 0.323);
-    border-radius: 10px;
+    border: 5px solid #e0e0e0;
+    /* border-radius: 10px; */
     /* background: rgba(106, 78, 118, 0.523); */
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
+border-radius: 50px;
+background: #e0e0e0;
+box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
 }
 
 body {
